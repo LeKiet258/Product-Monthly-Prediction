@@ -1,0 +1,1 @@
+`"{weight_name}_2.py"` is the weight trained to test on the test_set while `"{weight_name}.py"` is a slightly changed version to forecast the 10-month demand, starting from the day after the last day in test_set.
